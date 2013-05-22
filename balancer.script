@@ -1,0 +1,7 @@
+{script, {balancer, "0.1"}
+[
+
+    {primLoad, [logger, balancer, balancer_test]}
+
+]}.
+
